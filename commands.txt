@@ -28,7 +28,7 @@ mkdir scripts/archive && cp scripts/*.py scripts/archive/
 rm docs/notes.md
 
 8.
-git add -A
+git add .
 git commit -m "Update station files"
 
 9.
