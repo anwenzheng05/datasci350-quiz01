@@ -116,4 +116,4 @@ git add commands.txt
 git commit -m "Add command log"
 git push origin main
 
-Disclaimer: Gemini is used to check line and troubleshoot when 
+Disclaimer: Gemini was used to assistant syntax, troubleshoot unexpected command errors, and catch minor mistakes like typos I overlooked.
